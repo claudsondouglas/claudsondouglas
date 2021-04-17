@@ -1,3 +1,1 @@
-- 🔭 I currently work as a Freelancer
-- 🌱 Currently studying Informatics
-- 📫 How to reach me: claudsondouglas@escolar.ifrn.edu.br
+
